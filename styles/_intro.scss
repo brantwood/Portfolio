@@ -75,11 +75,11 @@ nav{
 }
 
 #plant-left{
-    animation: plant 1.5s ease infinite alternate;
+    animation: plant 2s ease infinite alternate;
 }
 
 #plant-right{
-    animation: plant 1.5s ease infinite alternate 0.5s;
+    animation: plant 2s ease infinite alternate 0.5s;
 }
 
 #me{
@@ -98,7 +98,7 @@ nav{
         transform:translateY(0%);
      }
      to{
-        transform:translateY(-20%);
+        transform:translateY(-5%);
      }
 }
 

@@ -131,13 +131,13 @@ nav ul {
 }
 
 #plant-left {
-  -webkit-animation: plant 1.5s ease infinite alternate;
-          animation: plant 1.5s ease infinite alternate;
+  -webkit-animation: plant 2s ease infinite alternate;
+          animation: plant 2s ease infinite alternate;
 }
 
 #plant-right {
-  -webkit-animation: plant 1.5s ease infinite alternate 0.5s;
-          animation: plant 1.5s ease infinite alternate 0.5s;
+  -webkit-animation: plant 2s ease infinite alternate 0.5s;
+          animation: plant 2s ease infinite alternate 0.5s;
 }
 
 #me {
@@ -158,7 +158,7 @@ nav ul {
     transform: translateY(0%);
   }
   to {
-    transform: translateY(-20%);
+    transform: translateY(-5%);
   }
 }
 
@@ -167,7 +167,7 @@ nav ul {
     transform: translateY(0%);
   }
   to {
-    transform: translateY(-20%);
+    transform: translateY(-5%);
   }
 }
 @-webkit-keyframes me {
